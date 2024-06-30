@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Penne alfredo",
+        "image": "alfredo.jpg",
+        "ingredients": ["Penne Pasta", "garlic", "butter", "Parmesan Cheese", "cream"],
+        "procedure": "Boil pasta.  Combine all with pasta.",
+        "cuisine": "Italian",
+        "prepTime": 10,
+        "diet": "Contains Lactose"
+    },
+    {
+        "name": "Tomato Soup",
+        "image": "tomato_soup.jpg",
+        "ingredients": ["Tomatoes", "Onions", "Garlic", "Basil", "Olive Oil"],
+        "procedure": "Saute onions and garlic. Add tomatoes and cook. Blend and add basil.",
+        "cuisine": "Indian",
+        "prepTime": 20,
+        "diet": "Vegetarian"
+    },
+    {
+        "name": "veg sandwich",
+        "image": "sandw.jpg",
+        "ingredients": ["bread", "vegetables", "butter", "Parmesan Cheese"],
+        "procedure": "apply butter on bread.stuff vegetables and cheese.toast the bread.",
+        "cuisine": "English",
+        "prepTime": 20,
+        "diet": "Vegetarian"
+    },
+    {
+        "name": "gobi 65",
+        "image": "gobi.jpg",
+        "ingredients": ["cauliflower", "flour", "spice powder", "Olive Oil"],
+        "procedure": "mix the cauliflower with flour and spice powder.fry it in olive oil",
+        "cuisine": "South Indian",
+        "prepTime": 20,
+        "diet": "Oily Food"
+    }
+]
